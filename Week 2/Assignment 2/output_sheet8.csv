@@ -1,0 +1,97 @@
+,ID,Team,Country,NameF,NameL,Weight,Height,DOB,Hometown,Prov,Pos,Age,HeightFt,HtIn,BMI
+0,1,Women,Canada,Meghan,Agosta,148,5'7,1987-02-12,Ruthven,Ont.,Forward,33,5.583333333333333,67,23
+1,2,Women,Canada,Rebecca,Johnston,148,5'9,1989-09-24,Sudbury,Ont.,Forward,31,5.75,69,22
+2,3,Women,Canada,Laura,Stacey,156,5'10,1994-05-05,Kleinburg,Ont.,Forward,26,5.833333333333333,70,22
+3,4,Women,Canada,Jennifer,Wakefield,172,5'10,1989-06-15,Pickering,Ont.,Forward,31,5.833333333333333,70,25
+4,5,Women,Canada,Jillian,Saulnier,144,5'5,1992-03-07,Halifax,N.S.,Forward,28,5.416666666666667,65,24
+5,6,Women,Canada,Mélodie,Daoust,159,5'6,1992-01-07,Valleyfield,Que.,Forward,28,5.5,66,26
+6,7,Women,Canada,Bailey,Bram,150,5'8,1990-09-05,St. Anne,Man.,Forward,30,5.666666666666667,68,23
+7,8,Women,Canada,Brianne,Jenner,156,5'9,1991-05-04,Oakville,Ont.,Forward,29,5.75,69,23
+8,9,Women,Canada,Sarah,Nurse,140,5'8,1995-01-04,Hamilton,Ont.,Forward,25,5.666666666666667,68,21
+9,10,Women,Canada,Haley,Irwin,170,5'7,1988-06-06,Thunder Bay,Ont.,Forward,32,5.583333333333333,67,27
+10,11,Women,Canada,Natalie,Spooner,180,5'10,1990-10-17,Scarborough,Ont.,Forward,30,5.833333333333333,70,26
+11,12,Women,Canada,Emily,Clark,130,5'7,1995-11-28,Saskatoon,Sask.,Forward,24,5.583333333333333,67,20
+12,13,Women,Canada,Marie-Philip,Poulin,160,5'7,1991-03-28,Beauceville,Que.,Forward,29,5.583333333333333,67,25
+13,14,Women,Canada,Blayre,Turnbull,155,5'7,1993-07-15,Stellarton,N.S.,Forward,27,5.583333333333333,67,24
+14,15,Women,Canada,Jocelyne,Larocque,139,5'6,1988-05-19,Ste. Anne,Man.,Defence,32,5.5,66,22
+15,16,Women,Canada,Brigette,Lacquette,180,5'6,1992-10-11,Mallard,Man.,Defence,28,5.5,66,29
+16,17,Women,Canada,Lauriane,Rougeau,167,5'8,1990-04-12,Beaconsfield,Que.,Defence,30,5.666666666666667,68,25
+17,18,Women,Canada,Laura,Fortino,137,5'4,1991-01-30,Hamilton,Ont.,Defence,29,5.333333333333333,64,24
+18,19,Women,Canada,Meaghan,Mikkelson,139,5'9,1985-01-04,St. Albert,Alta.,Defence,35,5.75,69,21
+19,20,Women,Canada,Renata,Fast,144,5'6,1994-10-06,Burlington,Ont.,Defence,26,5.5,66,23
+20,21,Women,Canada,Shannon,Szabados,146,5'8,1986-08-06,Edmonton,Alta.,Goalie,34,5.666666666666667,68,22
+21,22,Women,Canada,Geneviève,Lacasse,136,5'8,1989-05-05,Kingston,Ont.,Goalie,31,5.666666666666667,68,21
+22,23,Women,Canada,Ann-Renée,Desbiens,160,5'9,1994-04-10,La Malbaie,Que.,Goalie,26,5.75,69,24
+23,24,Men,Canada,Gilbert,Brulé,190,5'11,1987-01-01,Vancouver,B.C.,Forward,33,5.916666666666667,71,26
+24,25,Men,Canada,Wojtek,Wolski,220,6'3,1986-02-24,Toronto,Ont.,Forward,34,6.25,75,27
+25,26,Men,Canada,Derek,Roy,187,5'9,1983-05-04,Rockland,Ont.,Forward,37,5.75,69,28
+26,27,Men,Canada,Chris,Kelly,194,6'0,1980-11-11,Toronto,Ont.,Forward,39,6.0,72,26
+27,28,Men,Canada,Rob,Klinkhammer,214,6'3,1986-08-12,Lethbridge,Alta.,Forward,34,6.25,75,27
+28,29,Men,Canada,Brandon,Kozun,170,5'8,1990-03-08,Calgary,Alta.,Forward,30,5.666666666666667,68,26
+29,30,Men,Canada,Quinton,Howden,190,6'2,1992-01-21,Oakbank,Man.,Forward,28,6.166666666666667,74,24
+30,31,Men,Canada,René,Bourque,216,6'2,1981-12-10,Lac La Biche,Alta.,Forward,38,6.166666666666667,74,28
+31,32,Men,Canada,Andrew,Ebbett,176,5'9,1983-01-02,Vernon,B.C.,Forward,37,5.75,69,26
+32,33,Men,Canada,Mason,Raymond,179,6'1,1985-09-17,Cochrane,Alta.,Forward,35,6.083333333333333,73,24
+33,34,Men,Canada,Eric,O’Dell,201,6'1,1990-06-21,Ottawa,Ont.,Forward,30,6.083333333333333,73,27
+34,35,Men,Canada,Maxim,Lapierre,216,6'0,1985-03-29,Brossard,Que.,Forward,35,6.0,72,29
+35,36,Men,Canada,Linden,Vey,190,6'0,1991-07-17,Wakaw,Sask.,Forward,29,6.0,72,26
+36,37,Men,Canada,Christian,Thomas,174,5'9,1992-05-26,Toronto,Ont.,Forward,28,5.75,69,26
+37,38,Men,Canada,Karl,Stollery,181,5'11,1987-11-21,Camrose,Alta.,Defence,32,5.916666666666667,71,25
+38,39,Men,Canada,Chris,Lee,187,6'0,1980-10-03,MacTier,Ont.,Defence,40,6.0,72,25
+39,40,Men,Canada,Chay,Genoway,170,5'9,1986-12-20,Morden,Man.,Defence,33,5.75,69,25
+40,41,Men,Canada,Marc-Andre,Gragnani,205,6'3,1987-03-11,L’Île-Bizard,Que.,Defence,33,6.25,75,26
+41,42,Men,Canada,Stefan,Elliott,190,6'1,1991-01-30,Vancouver,B.C.,Defence,29,6.083333333333333,73,25
+42,43,Men,Canada,Cody,Goloubef,200,6'1,1989-11-30,Oakville,Ont.,Defence,30,6.083333333333333,73,26
+43,44,Men,Canada,Mat,Robinson,185,5'10,1986-06-20,Calgary,Alta.,Defence,34,5.833333333333333,70,27
+44,45,Men,Canada,Maxim,Noreau,198,6'0,1987-05-24,Montreal,Que.,Defence,33,6.0,72,27
+45,46,Men,Canada,Ben,Scrivens,181,6'2,1986-09-11,Spruce Grove,Alta.,Goalie,34,6.166666666666667,74,23
+46,47,Men,Canada,Kevin,Poulin,205,6'2,1990-04-12,Montreal,Que.,Goalie,30,6.166666666666667,74,26
+47,48,Men,Canada,Justin,Peters,210,6'1,1986-08-30,Blyth,Ont.,Goalie,34,6.083333333333333,73,28
+48,49,Women,USA,Cayla,Barnes,145,5'1,1999-01-07,Eastvale,Calif.,Defence,21,5.083333333333333,61,27
+49,50,Women,USA,Kacey,Bellamy,145,5'7,1987-04-22,Westfield,Mass.,Defence,33,5.583333333333333,67,23
+50,51,Women,USA,Hannah,Brandt,150,5'6,1993-11-27,Vadnais Heights,Minn.,Forward,26,5.5,66,24
+51,52,Women,USA,Dani,Cameranesi,148,5'5,1995-06-30,Plymouth,Minn.,Forward,25,5.416666666666667,65,25
+52,53,Women,USA,Kendall,Coyne,123,5'2,1992-05-25,Palos Heights,Ill.,Forward,28,5.166666666666667,62,22
+53,54,Women,USA,Brianna,Decker,150,5'4,1991-05-13,Dousman,Wis.,Forward,29,5.333333333333333,64,26
+54,55,Women,USA,Meghan,Duggan,164,5'10,1987-09-03,Danvers,Mass.,Forward,33,5.833333333333333,70,24
+55,56,Women,USA,Kali,Flanagan,142,5'4,1995-09-19,Burlington,Mass.,Defence,25,5.333333333333333,64,24
+56,57,Women,USA,Nicole,Hensley,155,5'7,1994-06-23,Lakewood,Colo.,Goalie,26,5.583333333333333,67,24
+57,58,Women,USA,Megan,Keller,160,5'11,1996-05-01,Farmington,Mich.,Defence,24,5.916666666666667,71,22
+58,59,Women,USA,Amanda,Kessel,136,5'5,1991-08-28,Madison,Wis.,Forward,29,5.416666666666667,65,23
+59,60,Women,USA,Hilary,Knight,175,5'11,1989-07-12,Sun Valley,Idaho,Forward,31,5.916666666666667,71,24
+60,61,Women,USA,Jocelyne,Lamoureux-Davidson,150,5'6,1989-07-03,Grand Forks,N.D.,Forward,31,5.5,66,24
+61,62,Women,USA,Monique,Lamoureux-Morando,147,5'6,1989-07-03,Grand Forks,N.D.,Forward,31,5.5,66,24
+62,63,Women,USA,Gigi,Marvin,159,5'8,1987-03-07,Warroad,Minn.,Forward,33,5.666666666666667,68,24
+63,64,Women,USA,Sidney,Morin,140,5'5,1995-06-06,Minnetonka,Minn.,Defence,25,5.416666666666667,65,23
+64,65,Women,USA,Kelly,Pannek,165,5'8,1995-12-29,Plymouth,Minn.,Forward,24,5.666666666666667,68,25
+65,66,Women,USA,Amanda,Pelkey,135,5'3,1993-05-29,Montpelier,Vt.,Forward,27,5.25,63,24
+66,67,Women,USA,Emily,Pfalzer,125,5'3,1993-06-14,Buffalo,N.Y.,Defence,27,5.25,63,22
+67,68,Women,USA,Alex,Rigsby,150,5'7,1992-01-03,Delafield,Wis.,Goalie,28,5.583333333333333,67,23
+68,69,Women,USA,Maddie,Rooney,145,5'5,1997-07-07,Andover,Minn.,Goalie,23,5.416666666666667,65,24
+69,70,Women,USA,Haley,Skarupa,140,5'6,1994-01-03,Rockville,Md.,Forward,26,5.5,66,23
+70,71,Women,USA,Lee,Stecklein,175,6'0,1994-04-23,Roseville,Minn.,Defence,26,6.0,72,24
+71,72,Men,USA,Mark,Arcobello,170,5'8,1988-08-12,Milford,Conn.,Forward,32,5.666666666666667,68,26
+72,73,Men,USA,Chad,Billins,185,5'10,1989-05-26,Marysville,Mich.,Defence,31,5.833333333333333,70,27
+73,74,Men,USA,Jonathan,Blum,195,6'1,1989-01-30,Ladera Ranch,Calif.,Defence,31,6.083333333333333,73,26
+74,75,Men,USA,Will,Borgen,195,6'2,1996-12-19,Moorhead,Minn.,Defence,23,6.166666666666667,74,25
+75,76,Men,USA,Chris,Bourque,180,5'8,1986-01-29,North Reading,Mass.,Forward,34,5.666666666666667,68,27
+76,77,Men,USA,Bobby,Butler,189,6'0,1987-04-26,Marlborough,Mass.,Forward,33,6.0,72,26
+77,78,Men,USA,Ryan,Donato,196,6'1,1996-04-09,Scituate,Mass.,Forward,24,6.083333333333333,73,26
+78,79,Men,USA,Matt,Gilroy,200,6'1,1984-07-20,Bellmore,N.Y.,Defence,36,6.083333333333333,73,26
+79,80,Men,USA,Brian,Gionta,175,5'7,1979-01-18,Rochester,N.Y.,Forward,41,5.583333333333333,67,27
+80,81,Men,USA,Jordan,Greenway,235,6'5,1997-02-16,Canton,N.Y.,Forward,23,6.416666666666667,77,28
+81,82,Men,USA,Ryan,Gunderson,170,5'9,1985-08-16,Bensalem,Pa.,Defence,35,5.75,69,25
+82,83,Men,USA,Chad,Kolarik,185,5'11,1986-01-26,Abington,Pa.,Forward,34,5.916666666666667,71,26
+83,84,Men,USA,David,Leggio,185,6'0,1984-07-31,Buffalo,N.Y.,Goalie,36,6.0,72,25
+84,85,Men,USA,Broc,Little,170,5'9,1988-03-24,Rindge,N.H.,Forward,32,5.75,69,25
+85,86,Men,USA,Brandon,Maxwell,196,6'1,1991-03-22,Winter Park,Fla.,Goalie,29,6.083333333333333,73,26
+86,87,Men,USA,John,McCarthy,195,6'1,1986-08-09,Boston,Mass.,Forward,34,6.083333333333333,73,26
+87,88,Men,USA,Brian,O'Neill,174,5'9,1988-06-01,Yardley,Pa.,Forward,32,5.75,69,26
+88,89,Men,USA,Garrett,Roe,178,5'9,1988-02-22,Vienna,Va.,Forward,32,5.75,69,26
+89,90,Men,USA,Bobby,Sanguinetti,190,6'2,1988-02-29,Wilmington,N.C.,Defence,32,6.166666666666667,74,24
+90,91,Men,USA,Jim,Slater,200,6'0,1982-12-09,Lapeer,Mich.,Forward,37,6.0,72,27
+91,92,Men,USA,Ryan,Stoa,210,6'3,1987-04-13,Bloomington,Minn.,Forward,33,6.25,75,26
+92,93,Men,USA,Troy,Terry,179,6'0,1997-09-10,Highlands Ranch,Colo.,Forward,23,6.0,72,24
+93,94,Men,USA,Noah,Welch,215,6'4,1982-08-26,Brighton,Mass.,Defence,38,6.333333333333333,76,26
+94,95,Men,USA,James,Wisniewski,205,6'0,1984-02-21,Canton,Mich.,Defence,36,6.0,72,28
+95,96,Men,USA,Ryan,Zapolski,203,6'0,1986-11-11,Erie,Pa.,Goalie,33,6.0,72,28

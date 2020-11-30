@@ -1,0 +1,19 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,# In Region,2,Unnamed: 10
+0,Select a Region:,,,Region Employees,,,,,,,
+1,,East,,Num,Emp,,Region,,Employee,Region,ListNum
+2,,,,1,Al,,East,,Al,East,1
+3,,,,2,Gil,,Central,,Bea,Central,
+4,,,,,,,West,,Cam,West,
+5,,,,,,,,,Dee,Central,
+6,,,,,,,,,Ed,Central,
+7,,,,,,,,,Flo,West,
+8,,,,,,,,,Gil,East,2
+9,,,,,,,,,Hal,Central,
+10,,,,,,,,,Ira,West,
+11,,,,,,,,,Joe,West,
+12,,,,,,,,,Kim,Central,
+13,,,,,,,,,Lou,West,
+14,,,,,,,,,May,West,
+15,,,,,,,,,,,
+16,,,,,,,,,,,
+17,,,,,,,,,,,
